@@ -10,7 +10,7 @@ publisher is NHN Corporation.
 
 Name:		%{fontname}-fonts
 Version:	3.020
-Release:	8%{?dist}
+Release:	9%{?dist}
 Summary:	Nanum family of Korean TrueType fonts
 
 Group:		User Interface/X
@@ -131,6 +131,9 @@ done
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 3.020-9
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 3.020-8
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
