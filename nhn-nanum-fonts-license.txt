@@ -1,0 +1,404 @@
+메인 메뉴로 바로가기 <#lnb> 하위 메뉴로 바로가기 <#snb> 본문으로 바로가
+기 <#content>
+** <#>
+
+
+  사용자 링크
+
+  * 내 블로그 <http://blog.naver.com/MyBlog.nhn>
+  * 내 미투데이 <#>
+  * 내 N드라이브 <http://ndrive.naver.com/>
+  * 내 정보관리 <https://nid.naver.com/user/help.nhn?todo=main>
+
+로그인 <https://nid.naver.com/nidlogin.login>
+
+  * 네이버 <http://www.naver.com/>
+  * me <http://me.naver.com>/0/ <#>
+  * 메일 <http://mail2.naver.com/>
+  * 카페 <http://section.cafe.naver.com/>
+  * 블로그 <http://blog.naver.com/>
+  * 더보기 <#>
+
+    /ㄱ/-/ㅁ/
+        가계부 <http://moneybook.naver.com>
+        건강 <http://health.naver.com>
+        게임 <http://game.naver.com>
+        교통 <http://traffic.map.naver.com>
+        날씨 <http://weather.naver.com>
+        뉴스 <http://news.naver.com>
+        만화/웹툰 <http://comic.naver.com>
+        뮤직 <http://music.naver.com>
+        미디어 플레이어
+        <http://tools.naver.com/service/mediaplayer/index.nhn>
+        미투데이 <http://me2day.net>
+
+    /ㅂ/-/ㅇ/
+        백신 <http://tools.naver.com/service/vaccine/index.nhn>
+        부동산 <http://land.naver.com>
+        붐 <http://boom.naver.com>
+        사전 <http://dic.naver.com>
+        샵N <http://shop.naver.com/main/introduction/introduce>
+        스포츠 <http://news.naver.com/sports>
+        영화 <http://movie.naver.com>
+        윙버스 <http://wingbus.naver.com>
+        윙스푼 <http://www.wingspoon.com>
+
+    /ㅈ/-/ㅋ/
+        자동차 <http://auto.naver.com>
+        자료실 <http://file.naver.com>
+        증권 <http://stock.naver.com>
+        지도 <http://map.naver.com>
+        지식쇼핑 <http://shopping.naver.com>
+        지식iN <http://kin.naver.com>
+        쪽지 <http://mail.naver.com/note>
+        책 <http://book.naver.com>
+        캡처 <http://toolbar.naver.com/intro/index.nhn?menuId=16>
+        키친 <http://kitchen.naver.com>
+
+    /ㅌ/-/기타/
+        툴바 <http://tools.naver.com/service/toolbar/index.nhn>
+        포토뷰어 <http://tools.naver.com/service/photoviewer/index.nhn>
+        포토앨범 <http://photo.ndrive.naver.com>
+        해피빈 <http://happybean.naver.com/>
+        N드라이브 <http://ndrive.naver.com>
+        TV편성표 <http://tvguide.naver.com>
+        QR코드 <http://qr.naver.com>
+
+    /신규서비스/
+        내서재 <http://myshelf.naver.com/main.nhn>
+        마일리지 <http://mileage.naver.com/customer/home>
+        베트남어사전 <http://vndic.naver.com>
+        라인 <http://campaign.naver.com/line>
+        카메라앱 <http://mobile.naver.com/service/camera>
+        캘린더 <https://calendar.naver.com>
+        프로야구 <http://news.naver.com/sports/index.nhn?category=baseball>
+        N스토어 <http://nstore.naver.com>
+
+    전체보기 <http://www.naver.com/more.html>
+
+네이버 통합검색
+
+
+  NAVER <http://www.naver.com> 고객센터 <#>
+
+검색
+
+  * 도움말.문의하기 </ops/step1/faq.nhn>
+  * 신고센터 </ops/step1/query.nhn>
+  * 문의내역 </ops/step2/myInquiry.nhn>
+
+*공지사항 :* [11/21] 만화 접속 불안에 사과 드립니다. (복구 중)
+</ops/step1/notice.nhn?url=http://ui.nboard2.naver.com/nboard2/read/1000003518/10000000000027340749>
+
+본문시작
+인쇄하기 <javascript:print();> 취소 <javascript:self.close();>
+
+
+  네이버 나눔글꼴 라이선스 내용은 구체적으로 어떻게 되나요?
+
+네이버 나눔글꼴의 지적 재산권은 NHN에 있습니다.
+네이버 나눔글꼴은 개인 및 기업 사용자를 포함한 모든 사용자에게
+
+무료로 제공되며 자유롭게 수정하고 재배포하실 수 있습니다.
+
+단, 글꼴 자체를 유료로 판매하는 것은 금지하며,
+
+네이버 나눔글꼴은 본 저작권 안내와 라이선스 전문을 포함해서
+
+다른 소프트웨어와 번들하거나 재배포 또는 판매가 가능합니다.
+네이버 나눔글꼴 라이선스 전문을 포함하기 어려울 경우,
+
+나눔글꼴의 출처 표기를 권장합니다.
+
+예) 이 페이지에는 네이버에서 제공한 나눔글꼴이 적용되어 있습니다
+
+네이버 나눔글꼴을 사용한 인쇄물, 광고물(온라인 포함)의 이미지는
+
+나눔글꼴 프로모션을 위해 활용될 수 있습니다.
+
+이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다.
+
+정확한 사용 조건은 아래 네이버 나눔글꼴 라이선스 전문을 참고하시기 바랍니다.
+
+ 
+
+ 
+
+*나눔글꼴 라이선스 전문의 한글은 이용자의 이해를 돕기 위해 영문 원본을
+번역해 서비스하고 있으며
+
+  법적 효력은 영문에 한합니다. 이 점 참고하시기 바랍니다.
+
+ 
+
+Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com
+<http://www.nhncorp.com/>),
+
+with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver
+NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver
+NanumBrush, NanumPen, Naver NanumPen, Naver NanumGothicEco,
+NanumGothicEco, Naver NanumMyeongjoEco, NanumMyeongjoEco, Naver
+NanumGothicLight, NanumGothicLight
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+SIL OPEN FONT LICENSE
+
+Version 1.1 - 26 February 2007
+
+ 
+
+‘나눔, 네이버 나눔, 나눔고딕, 네이버 나눔고딕, 나눔명조, 네이버 나눔명
+조, 나눔손글씨, 네이버 나눔손글씨, 나눔펜, 네이버 나눔펜, 네이버 나눔고
+딕에코, 나눔고딕에코, 네이버 나눔명조에코, 나눔명조에코, 네이버 나눔고딕
+라이트, 나눔고딕라이트’ 폰트명에 대해 NHN (http://www.nhncorp.com
+<http://www.nhncorp.com/>)이 저작권을 소유하고 있습니다.
+
+본 폰트 소프트웨어는 SIL 오픈 폰트 라이선스 버전 1.1에 따라 라이선스 취
+득을 하였습니다.
+
+본 라이선스는 하단에 복사되었고http://scripts.sil.org/OFL의 FAQ란 에서도
+열람가능 합니다.
+
+ 
+
+SIL 오픈 폰트 라이선스
+
+버전 1.1 (2007년 2월 26일)  
+
+ 
+
+ 
+
+DEFINITIONS
+
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+ 
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+ 
+
+"Original Version" refers to the collection of Font Software components
+as distributed by the Copyright Holder(s).
+
+ 
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting in part or in whole any of the components of the
+Original Version, by changing formats or by porting the Font Software to
+a new environment.‘
+
+ 
+
+"Author" refers to any designer, engineer, programmer, technical writer
+or other person who contributed to the Font Software.
+
+ 
+
+정의
+
+‘폰트 소프트웨어’는 본 라이선스에 입거해 저작권자가 배포하고 명확하게 같
+은 표시가 된 파일들의 집합을 뜻하며, 여기에는 소스 파일, 빌드 스크립트와
+문서가 이에 포함됩니다.
+
+ 
+
+‘저작권이 있는 폰트명’은 저작권 정책에 따라서 지정된 이름을 말합니다.
+
+ 
+
+‘원본’은 저작권자가 배포한 폰트 소프트웨어 구성요소를 의미합니다.
+
+ 
+
+‘수정본’은 포맷의 변경이나 폰트 소프트웨어를 새로운 환경에 포팅시켜, 원
+본의 일부 혹은 전체에 추가, 삭제 대체해 만든 파생 저작물을 의미합니다.
+
+ 
+
+‘저자’는 폰트 소프트웨어에 기여한 디자이너, 엔지니어, 프로그래머, 기술
+전문가 등을 의미합니다.
+
+
+ 
+
+PREAMBLE
+
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects,
+
+to support the font creation efforts of academic and linguistic
+communities, and to provide a free and open framework
+in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold
+by themselves. The fonts, including any derivative works, can be
+bundled, embedded, redistributed and/or sold with any software provided
+that any reserved names are not used by derivative works.
+The fonts and derivatives, however, cannot be released under any other
+type of license.
+
+The requirement for fonts to remain under this license does not apply to
+any document created using the fonts or their derivatives.
+
+ 
+
+전문
+
+본 폰트 라이선스를 오픈 하는 것은(이하 OFL)는 전 세계 폰트 개발 프로젝트
+를 지원하고 학계와 언어 관련 학계의 폰트 개발을 위한 연구를 지지하기 위
+해서인 동시에, 폰트 제휴를 통해 폰트가 공유되고 개선될 수 있는 자유롭게
+개방된 환경을 만들기 위해서 입니다.  
+
+OFL은 라이선스를 취득한 폰트가 그 자체로 판매되지 않는 한 자유롭게 사용,
+연구, 수정, 재배포 하는 것을 허가합니다. 수정된 폰트를 포함한 폰트는 저
+작권 명이 사용되지 않는 한 기타 소프트웨어와 함께 묶이거나 삽입, 재배포
+할 수 있습니다. 단 폰트와 수정된 폰트는 기타 다른 라이선스에 포함되어 배
+포될 수는 없습니다. 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본
+폰트나 수정본을 사용하여 제작된 어떠한 문서에도 적용되지 않습니다.
+
+ 
+
+ 
+
+PERMISSION & CONDITIONS
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+ 
+
+허가 및 조건
+
+본 폰트 소프트웨어를 사용하도록 허가 받은 개인/기업/단체 누구라도 다음
+명시된 조건에 따라 폰트 소프트웨어의 수정 혹은 수정되지 않은 복사본을 무
+료로 사용, 연구, 복사, 통합, 삽입, 수정, 재배포할 수 있도록 허가합니다.
+
+ 
+
+1) Neither the Font Software nor any of its individual components,in
+Original or Modified Versions, may be sold by itself.
+
+ 원본이나 수정본의 폰트 소프트웨어 혹은 개별 구성요소인 폰트 자체가 판매
+되어서는 안됩니다.
+
+ 
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or in
+the appropriate machine-readable metadata fields within text or binary
+files as long as those fields can be easily viewed by the user.
+
+ 
+
+본 폰트 소프트웨어의 원본 혹은 수정본은 상기 저작권 안내와 본 라이선스에
+대한 내용을 포함하는 경우에는 다른 소프트웨어와 함께 묶이거나 재배포 혹
+은 판매가 가능합니다. 이는 독립 텍스트 파일과 가독성이 있는 헤더 혹은 유
+저가 용이하게 열람 가능한 이상 텍스트파일 혹은 이진파일 내 기계가 읽을
+수 있는 메타데이터 형태를 모두 의미 합니다.
+
+ 
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written
+
+permission is granted by the corresponding Copyright Holder. This
+restriction only applies to the primary font name as presented to the users.
+
+ 
+
+본 폰트 소프트웨어의 어떠한 수정본도 동일한 저작권자가 명시적 허가서를
+부여하지 않는 한 저작권이 있는 폰트명을 사용해서는 안 됩니다. 본 제한 사
+항은 유저들에게 제공된 기존 폰트명을 뜻합니다.
+
+ 
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any Modified
+Version, except to acknowledge the contribution(s) of the Copyright
+Holder(s) and the Author(s) or with their explicit written permission.
+
+ 
+
+본 폰트 소프트웨어의 저작권자 혹은 저자의 이름은 그들의 명시적 서면 허가
+가 있거나 또는 그들의 공헌을 인정하기 위한 경우를 제외하고는 수정본에 대
+한 사용을 유도,추천 혹은 광고하기 위한 목적으로 사용할 수 없습니다.
+
+ 
+
+5) The Font Software, modified or unmodified, in part or in whole, must
+be distributed entirely under this license, and must not be distributed
+any other license. The requirement for fonts to remain under this
+license does not apply to any document created using the Font Software.
+
+ 
+
+본 폰트 소프트웨어는 전체나 부분, 혹은 수정 여부에 상관없이 본 라이선스
+하에 배포가 되어야 하며 기타 다른 라이선스 하에서는 배포를 할 수 없습니
+다. 폰트에 대한 요구조건은 이 라이선스 하에서만 유효하며 이 라이선스 하
+에 있기 위한 폰트에 대한 요구사항은 본 폰트 소프트웨어를 사용해 제작
+한 어떠한 문서에도 적용되지 않습니다.
+
+  
+
+ 
+
+TERMINATION계약의 종료
+
+This license becomes null and void if any of the above conditions are
+not met.
+
+본 라이선스는 상기 조건 중 일부라도 부합되지 않으면 무효가 될 수 있습니다.
+
+ 
+
+ 
+
+DISCLAIMER
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF
+COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER
+DEALINGS IN THE FONT SOFTWARE.
+
+ 
+
+ 
+
+면책조항
+
+본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특
+정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는
+그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용
+또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모
+든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적,
+부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의
+무를 가지지 않습니다.
+
+  * 이용약관 <http://www.naver.com/rules/service.html>
+  * *개인정보취급방침* <http://www.naver.com/rules/privacy.html>
+  * 책임의 한계와 법적고지 <http://www.naver.com/rules/disclaimer.html>
+  * 웹문서수집 및 삭제정책 </customer/etc/webDocument.nhn>
+  * 고객센터 홈 <http://help.naver.com/>
+
+NHN <http://www.nhncorp.com/> /Copyright ©/ NHN Corp.
+<http://www.nhncorp.com/> All Rights Reserved.
+
